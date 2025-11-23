@@ -1,4 +1,15 @@
-## Hi everyone i am sailu👋
+# Hi, I’m Garikina Sailu 👋
+Aspiring Python Developer | Django & REST APIs | Open Source Enthusiast
+
+---
+
+## 🛠️ Skills
+- *Languages:* Python, SQL, HTML, CSS, JavaScript  
+- *Frameworks:* Django, Flask  
+- *Databases:* MySQL, SQLite  
+- *Tools & Platforms:* Git, GitHub, VS Code, Postman  
+- *Other:* REST APIs, Web Development, CRUD Applications  
+
 
 <!--
 **garikinasailu/garikinasailu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
